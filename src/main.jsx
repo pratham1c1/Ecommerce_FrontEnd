@@ -6,7 +6,7 @@ import "./styles/global.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <HashRouter basename="/Ecommerce_FrontEnd/">
+    <HashRouter basename="/Ecommerce_FrontEnd">
       <App />
     </HashRouter>
   </React.StrictMode>,
